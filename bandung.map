@@ -1,0 +1,38 @@
+MAP
+  NAME ITASCA
+  STATUS ON
+  SIZE 500 500
+  EXTENT 107.5644 -6.9630 107.6433 -6.9099  
+  UNITS METERS
+  SHAPEPATH "data"
+  IMAGECOLOR 255 255 255
+  
+  IMAGETYPE PNG
+
+  WEB
+	TEMPLATE "map.html"
+	IMAGEPATH "D:\ms4w\Apache\htdocs\webgis-dan-mapserver\tmp"
+	IMAGEURL "D:\ms4w\Apache\htdocs\webgis-dan-mapserver\tmp"
+  END  
+  
+  LAYER
+    NAME DEMOLAYER
+    TYPE POLYGON
+    STATUS DEFAULT
+    DATA bandung_indonesia_osm_polygon
+
+    CLASS
+       STYLE
+         OUTLINECOLOR 128 128 128
+         COLOR 225 225 185
+       END
+    END
+   
+    METADATA
+      WMS_TITLE "DEMO TAKEN FROM ITASCA"
+      WMS_ABSTRACT "DEMO TAKEN FROM ITASCA"
+      WMS_SRS "EPSG:26915"
+    END
+  END
+   
+END # Map File
