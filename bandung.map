@@ -21,7 +21,7 @@ MAP
     TYPE POLYGON
     STATUS DEFAULT
     DATA bandung_indonesia_osm_polygon
-    
+
     CLASS
        STYLE
          OUTLINECOLOR 128 128 128
@@ -29,7 +29,6 @@ MAP
        END
     END
    
-
     METADATA
       WMS_TITLE "DEMO TAKEN FROM ITACA"
       WMS_ABSTRACT "DEMO TAKEN FROM ITASCA"
