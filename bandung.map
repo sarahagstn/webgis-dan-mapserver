@@ -19,7 +19,7 @@ MAP
   LAYER
     NAME DEMOLAYER
     TYPE POLYGON
-    STATUS DEFAULT
+    
     DATA bandung_indonesia_osm_polygon
 
     CLASS
