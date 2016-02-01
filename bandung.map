@@ -1,4 +1,4 @@
-MAP
+MAP1
   NAME ITASCA
   STATUS ON
   SIZE 500 500
@@ -25,7 +25,7 @@ MAP
     CLASS
        STYLE
          OUTLINECOLOR 128 128 128
-         COLOR 6 225 185
+         COLOR 225 225 185
        END
     END
    
