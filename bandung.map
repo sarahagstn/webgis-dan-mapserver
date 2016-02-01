@@ -6,15 +6,9 @@ MAP
   UNITS METERS
   SHAPEPATH "data"
   IMAGECOLOR 255 255 255
-    IMAGETYPE PNG
+  IMAGETYPE PNG
 
 
-  WEB
-  	
-	TEMPLATE "map.html"
-	IMAGEPATH "D:\ms4w\Apache\htdocs\webgis-dan-mapserver\tmp"
-	IMAGEURL "D:\ms4w\Apache\htdocs\webgis-dan-mapserver\tmp"
-  END  
   
   LAYER
     NAME DEMOLAYER
