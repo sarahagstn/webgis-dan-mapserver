@@ -7,8 +7,7 @@ MAP
   SHAPEPATH "data"
   IMAGECOLOR 255 255 255
   IMAGETYPE PNG
-cvggcxvcghcxjgcxvjhgvcjhcxgvjhcxvgcvx cxvjgvcxjhgvcxjhvcx vcxjvcxjvcxcxv
-  WEB
+cvggcxvcghcxjgcxvjhgvcjhcxgvjhcxvgcvx cxvjgvcxjhgvcxjhvcx
   	
 	TEMPLATE "map.html"
 	IMAGEPATH "D:\ms4w\Apache\htdocs\webgis-dan-mapserver\tmp"
