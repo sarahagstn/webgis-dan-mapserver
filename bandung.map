@@ -24,7 +24,7 @@ MAP
     CLASS
        STYLE
          OUTLINECOLOR 128 128 128
-         COLOR 225 225 185
+         COLOR 5 225 185
        END
     END
    
@@ -32,7 +32,7 @@ MAP
       WMS_TITLE "DEMO TAKEN FROM ITACA"
       WMS_ABSTRACT "DEMO TAKEN FROM ITASCA"
       WMS_SRS "EPSG:26915"
-    END sghhsdfgshgj
+    END .,.,.,
   END
    
 END # Map File
