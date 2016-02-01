@@ -19,13 +19,13 @@ MAP
   LAYER
     NAME DEMOLAYER
     TYPE POLYGON
-    
+    STATUS DEFAULT
     DATA bandung_indonesia_osm_polygon
 
     CLASS
        STYLE
          OUTLINECOLOR 128 128 128
-         COLOR 225 225 185
+         COLOR 5 225 185
        END
     END
    
