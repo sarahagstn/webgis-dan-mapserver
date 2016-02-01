@@ -12,7 +12,7 @@ MAP
 	TEMPLATE "map.html"
 	IMAGEPATH "D:\ms4w\Apache\htdocs\webgis-dan-mapserver\tmp"
 	IMAGEURL "D:\ms4w\Apache\htdocs\webgis-dan-mapserver\tmp"
-  END  
+
 
   
   LAYER
