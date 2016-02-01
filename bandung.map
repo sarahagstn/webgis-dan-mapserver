@@ -33,6 +33,6 @@ MAP
       WMS_ABSTRACT "DEMO TAKEN FROM ITASCA"
       WMS_SRS "EPSG:26915"
     END
-  END
+  END...
    
 END # Map File
